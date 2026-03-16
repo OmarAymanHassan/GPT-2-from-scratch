@@ -2,3 +2,5 @@
 .venv
 gpt2
 .chainlit
+__pycache__/
+*.pyc
