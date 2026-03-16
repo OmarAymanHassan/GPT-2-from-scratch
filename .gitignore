@@ -1,0 +1,4 @@
+*.pth
+.venv
+gpt2
+.chainlit
