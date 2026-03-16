@@ -39,9 +39,6 @@ The project is structured as a comprehensive tutorial/course on building LLMs fr
 - Fine-tuning the model for instruction following
 - Implementing chat/instruction capabilities
 
-### Additional Chapters
-- `ch06.ipynb` & `ch07.ipynb`: Further explorations and implementations
-
 ## Python Scripts
 
 ### Core Implementation
@@ -79,12 +76,11 @@ Trained models are saved in the root directory:
 ## Dependencies
 
 The project uses a comprehensive set of libraries including:
-- PyTorch for deep learning
+- PyTorch for Transformer Implementation
 - tiktoken for GPT-2 tokenization
 - pandas, numpy for data handling
-- scikit-learn for evaluation
+- matplotlib for visualization
 - Chainlit for chat interface
-- Various NLP and ML libraries (transformers, datasets, etc.)
 
 See `pyproject.toml` for complete dependency list.
 
